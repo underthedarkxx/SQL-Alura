@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 -- Active: 1733068436815@@127.0.0.1@3306@alura
 CREATE SCHEMA Alura
 
@@ -285,7 +284,6 @@ DELETE FROM tabelafornecedores
 WHERE c1 > 35; 
 
 */
-=======
 -- Active: 1733068436815@@127.0.0.1@3306@alura
 CREATE SCHEMA Alura
 
@@ -572,4 +570,3 @@ DELETE FROM tabelafornecedores
 WHERE c1 > 35; 
 
 */
->>>>>>> 0a78ab65a0630a681625137b6775239713823722
